@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sisming.github.io/sitemap.html.gz
+Sitemap: https://sisming.github.io/app/sitemap.html.gz
+Sitemap: https://sisming.github.io/assets/sitemap.html.gz
+Sitemap: https://sisming.github.io/css/sitemap.html.gz
+Sitemap: https://sisming.github.io/includes/sitemap.html.gz
+Sitemap: https://sisming.github.io/item/sitemap.html.gz
+Sitemap: https://sisming.github.io/src/sitemap.html.gz
